@@ -1,3 +1,13 @@
+# SquareGL
+![Image](squaregl.png)
+
+### Supports
+
+- **Smooth Translation** - Click the mouse _inside_ the square and drag.
+- **Scaling** - Click the mouse near the _edges_ and drag.
+- **Rotation** - Click the mouse near the _corners_ and drag.
+
+Download [Repository Zip](http://github.com/debowin/opengl-square/zipball/master/).
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/debowin/opengl-square/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
