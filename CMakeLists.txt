@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.7)
-project(HW0_Square)
+project(SquareGL)
 
 set(CMAKE_CXX_STANDARD 11)
 
@@ -11,4 +11,4 @@ set(SOURCE_FILES
 
 set(LINKER_FLAGS "-lSDL2 -lSDL2main -lGL -ldl")
 link_libraries("${LINKER_FLAGS}")
-add_executable(HW0_Square ${SOURCE_FILES})
+add_executable(SquareGL ${SOURCE_FILES})
